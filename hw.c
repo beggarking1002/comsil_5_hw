@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World!! master");
+	printf("Hello World!! branch2");
 	return 0;
 }
